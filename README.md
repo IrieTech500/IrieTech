@@ -40,3 +40,5 @@ Would you like me to:
 3. Help you add a **sample TikTok preview**?
 
 Which do yuh prefer right now?
+you can choose one of the options above, or ask me to do something else!
+```
